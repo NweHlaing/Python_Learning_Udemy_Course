@@ -1,0 +1,5 @@
+result = input("Please enter a value: ")
+print(result)
+print("Type of input",type(result))
+print("Change to int",int(result))
+print("Changed type",type(result))
